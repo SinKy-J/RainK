@@ -1,0 +1,553 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl mtl0
+Kd 0.62 0.62 0.36
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl3
+Kd 1 1 1
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl3
+Kd 1 1 1
+
+newmtl mtl7
+Kd 1 0.92 0.69
+
+newmtl mtl8
+Kd 0.69 0.61 0.53
+
+newmtl mtl10
+Kd 0.97 0.06 0
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl12
+Kd 0.45 0.43 0.42
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl12
+Kd 0.45 0.43 0.42
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl49
+Kd 0.83 0.67 0.13
+
+newmtl mtl50
+Kd 0 1 0
+
+newmtl mtl51
+Kd 1 0 0
+
+newmtl mtl52
+Kd 1 1 1
+
+newmtl mtl3
+Kd 1 1 1
+
+newmtl mtl49
+Kd 0.83 0.67 0.13
+
+newmtl mtl50
+Kd 0 1 0
+
+newmtl mtl51
+Kd 1 0 0
+
+newmtl mtl52
+Kd 1 1 1
+
+newmtl mtl3
+Kd 1 1 1
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl156
+Kd 0.88 0.88 0.88
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl156
+Kd 0.88 0.88 0.88
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl12
+Kd 0.45 0.43 0.42
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl162
+Kd 0.83 0.84 0.83
+
+newmtl mtl163
+Kd 0.07 0.07 0.07
+
+newmtl mtl164
+Kd 0.95 0.76 0.18
+
+newmtl mtl165
+Kd 0.3 0.3 0.3
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl169
+Kd 0.67 0.67 0.67
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl173
+Kd 0.15 0.15 0.15
+
+newmtl mtl174
+Kd 0.829999 0.680584 0.313374
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl178
+Kd 0.85 0.85 0.85
+
+newmtl mtl169
+Kd 0.67 0.67 0.67
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl173
+Kd 0.15 0.15 0.15
+
+newmtl mtl174
+Kd 0.829999 0.680584 0.313374
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl3
+Kd 1 1 1
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl186
+Kd 0.1 0.1 0.1
+
+newmtl mtl187
+Kd 0.829999 0.680584 0.313374
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl19
+Kd 0.59 0.46 0
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl1
+Kd 0.85 0.85 0.85
+
+newmtl mtl208
+Kd 0.65 0.65 0.65
+
+newmtl mtl209
+Kd 0.22 0.22 0.22
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl213
+Kd 0.89 0.91 0.93
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl215
+Kd 0.5 0.25 0
+
+newmtl mtl211
+Kd 1 1 0.5
+
+newmtl mtl3
+Kd 1 1 1
+
+newmtl mtl213
+Kd 0.89 0.91 0.93
+
+newmtl mtl2
+Kd 0.25 0.25 0.25
+
+newmtl mtl215
+Kd 0.5 0.25 0
+
+newmtl mtl216
+Kd 0.5 0.5 0.5
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl12
+Kd 0.45 0.43 0.42
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl12
+Kd 0.45 0.43 0.42
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl12
+Kd 0.45 0.43 0.42
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl mtl11
+Kd 0.25 0.25 0.25
+
+newmtl mtl12
+Kd 0.45 0.43 0.42
+
+newmtl mtl9
+Kd 1 1 1
+
+newmtl mtl14
+Kd 0.77 0.77 0.77
+
+newmtl Hard Rough Plastic Grey #1
+Kd 0.515023 0.515023 0.515023
+
+newmtl Hard Rough Plastic Red #1
+Kd 0.751111 0.526337 0.364721
+
+newmtl Clear Rough Plastic White #3
+Kd 0 0 0
